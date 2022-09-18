@@ -1,0 +1,80 @@
+[
+    {
+        "claimId": 12345678,
+        "name" : "Saravanan",
+        "ailment" : "Heart surgery",
+        "sla" : 25,
+        "pTat": "",
+        "stage": "Discharge",
+        "status" : "Pending Approval",
+        "approvedAmount": "11,23,000",
+        "hospital" : "Sant Parmanand Hospital"
+    },
+    {
+        "claimId": 12345678,
+        "name" : "Saravanan",
+        "ailment" : "Heart surgery",
+        "sla" : 40,
+        "pTat": "2 Days",
+        "stage": "Final Claim",
+        "status" : "Pending Approval",
+        "approvedAmount": "11,23,000",
+        "hospital" : "Apollo Multi Speciality Hospital"
+    },
+    {
+        "claimId": 12345678,
+        "name" : "Saravanan",
+        "ailment" : "Road Accident",
+        "sla" : 80,
+        "pTat": "",
+        "stage": "Initial Authorization",
+        "status" : "Pending Approval",
+        "approvedAmount": "11,23,000",
+        "hospital" : "MIOT Hospital"
+    },
+    {
+        "claimId": 12345678,
+        "name" : "Saravanan",
+        "ailment" : "Heart surgery",
+        "sla" : 42,
+        "pTat": "",
+        "stage": "Discharge",
+        "status" : "TPA Query",
+        "approvedAmount": "11,23,000",
+        "hospital" : "ABCDEF Hospital"
+    },
+    {
+        "claimId": 12345678,
+        "name" : "Saravanan",
+        "ailment" : "Heart surgery",
+        "sla" : 55,
+        "pTat": "",
+        "stage": "Enhancement",
+        "status" : "Pending Approval",
+        "approvedAmount": "11,23,000",
+        "hospital" : "ABCDEF Hospital"
+    },
+    {
+        "claimId": 12345678,
+        "name" : "Saravanan",
+        "ailment" : "Heart surgery",
+        "sla" : 60,
+        "pTat": "",
+        "stage": "Discharge",
+        "status" : "TPA Query",
+        "approvedAmount": "11,23,000",
+        "hospital" : "ABCDEF Hospital"
+    },
+    {
+        "claimId": 12345678,
+        "name" : "Saravanan",
+        "ailment" : "Heart surgery",
+        "sla" : 49,
+        "pTat": "",
+        "stage": "Final Authorization",
+        "status" : "Pending Approval",
+        "approvedAmount": "11,23,000",
+        "hospital" : "ABCDEF Hospital"
+    }
+    
+]
